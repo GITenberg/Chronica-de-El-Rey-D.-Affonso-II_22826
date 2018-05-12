@@ -1,0 +1,41 @@
+_repo: Chronica-de-El-Rey-D.-Affonso-II_22826
+_version: 0.1.0
+alternative_title: Crónica de El-Rei D. Afonso II
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pina, Rui de
+    alias: Pina, Ruy de
+    birthdate: 1440
+    deathdate: 1521
+    gutenberg_agent_id: '6799'
+    url: http://www.gutenberg.org/2009/agents/6799
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Rui_de_Pina
+    - http://pt.wikipedia.org/wiki/Rui_de_Pina
+description: ''
+gutenberg_bookshelf:
+- PT Biografia
+- PT História
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22826'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Manuela Alves and Rita Farinha (This file was\r\nproduced\
+  \ from images generously made available by National\r\nLibrary of Portugal (Biblioteca\
+  \ Nacional de Portugal)"
+publication_note: "Lisboa:\r\nEscriptorio\r\n147--Rua dos Retrozeiros--147\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: "Bibliotheca de Classicos Portuguezes\r\nVolume LIII"
+subjects:
+- !lcsh 'Portugal -- History -- Afonso II, 1211-1223'
+- !lcsh 'Afonso II, King of Portugal, 1185-1223'
+- !lcc 'DP'
+title: Chronica de El-Rey D. Affonso II
+url: http://www.gutenberg.org/ebooks/22826
