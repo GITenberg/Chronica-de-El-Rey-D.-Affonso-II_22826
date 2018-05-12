@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Rui_de_Pina
     - http://pt.wikipedia.org/wiki/Rui_de_Pina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22826#Chronica-de-El-Rey-D.-Affonso-II
 gutenberg_bookshelf:
 - PT Biografia
 - PT História
